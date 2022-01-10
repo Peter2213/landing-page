@@ -2,6 +2,7 @@
 app.js , style2.css , index.html
 ## References 
 MDN 
+
 UDACITY to build js file directly without writting html file and css file
 ## important files 
 index.html : writting structure of the web page
